@@ -1,4 +1,4 @@
-require(ggplot2);require(seewave);require(tuneR);require(viridis)
+require(ggplot2);require(seewave);require(tuneR);require(viridis);require(scales)
 
 ##########
 # rspect: Custom function for generating ggplot spectrogram objects in R
